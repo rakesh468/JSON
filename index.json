@@ -1,0 +1,59 @@
+[{
+    "Personal Details":{
+    "name": "rakesh  kumar",
+    "DOB":"05/08/1999",
+    "address":"No:30 gowripettai, avadi " ,
+    "pin code":"600054",
+    "email": "rakeshkumarg2000@gmail.com",
+    "phone": "+91 9080225898",
+    "nationality":"INDIAN",
+    "blood":"o+ve"
+},
+    "Educational qualification": [{
+    "institution": "DG vaishnav college",
+    "degree":"Bachelors  of commerce",
+    "startdate":"15/7/2017",
+    "enddate":"3/5/2020",
+    "CGP":"8.2"
+}],
+    "Language known": [{
+    "languages":"English,Tamil,Telugu"
+}],
+    "Technical skills": [{
+    "Name":"typewriting",
+    "level":"senior"
+      }],
+    "Hobby": [{
+    "name": "reading  books"
+}],
+    "Educational achievement": [{
+    "name":"Diploma in computer application",
+    "grade":"distinction"
+}]
+}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
